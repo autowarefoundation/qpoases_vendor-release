@@ -1,3 +1,26 @@
+## qpoases_vendor (noetic) - 3.2.1-1
+
+The packages in the `qpoases_vendor` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic qpoases_vendor` on `Thu, 14 Jan 2021 16:34:18 -0000`
+
+The `qpoases_vendor` package was released.
+
+Version of package(s) in repository `qpoases_vendor`:
+
+- upstream repository: https://github.com/Autoware-AI/qpoases_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## qpoases_vendor (melodic) - 3.2.1-2
 
 The packages in the `qpoases_vendor` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --ros-distro melodic qpoases_vendor --edit` on `Mon, 31 Aug 2020 18:23:13 -0000`

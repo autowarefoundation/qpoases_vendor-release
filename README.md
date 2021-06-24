@@ -1,3 +1,26 @@
+## qpoases_vendor (foxy) - 3.2.3-2
+
+The packages in the `qpoases_vendor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --ros-distro foxy qpoases_vendor` on `Thu, 24 Jun 2021 22:13:38 -0000`
+
+The `qpoases_vendor` package was released.
+
+Version of package(s) in repository `qpoases_vendor`:
+
+- upstream repository: https://github.com/Autoware-AI/qpoases_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `3.2.3-1`
+- new version: `3.2.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## qpoases_vendor (foxy) - 3.2.3-1
 
 The packages in the `qpoases_vendor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --ros-distro foxy --track foxy qpoases_vendor` on `Thu, 24 Jun 2021 17:01:16 -0000`

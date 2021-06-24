@@ -2,6 +2,11 @@
 Changelog for package qpoases_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.2.3 (2021-06-24)
+------------------
+* Updating for ROS2
+* Contributors: Joshua Whitley
+
 3.2.1 (2019-10-15)
 ------------------
 * Adding missing dependency on subversion.

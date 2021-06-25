@@ -1,3 +1,26 @@
+## qpoases_vendor (rolling) - 3.2.3-1
+
+The packages in the `qpoases_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --ros-distro rolling --track rolling qpoases_vendor` on `Fri, 25 Jun 2021 17:53:24 -0000`
+
+The `qpoases_vendor` package was released.
+
+Version of package(s) in repository `qpoases_vendor`:
+
+- upstream repository: https://github.com/Autoware-AI/qpoases_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## qpoases_vendor (galactic) - 3.2.3-1
 
 The packages in the `qpoases_vendor` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --ros-distro galactic --track galactic qpoases_vendor` on `Fri, 25 Jun 2021 17:42:04 -0000`

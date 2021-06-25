@@ -1,0 +1,12 @@
+Source: ros-rolling-qpoases-vendor
+Section: misc
+Priority: optional
+Maintainer: Geoffrey Biggs <geoff.biggs@tier4.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake-auto, subversion, ros-rolling-ros-workspace
+Homepage: https://projects.coin-or.org/qpOASES
+Standards-Version: 3.9.2
+
+Package: ros-rolling-qpoases-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, subversion, ros-rolling-ros-workspace
+Description: Wrapper around qpOASES to make it available to the ROS ecosystem.
